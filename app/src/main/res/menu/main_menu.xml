@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/settings_id"
+        android:title="Settings"
+        android:showAsAction="never"
+        android:icon="@drawable/ic_party_mode_black_18dp"
+        />
+    <item
+        android:id="@+id/about_us_id"
+        android:title="About Us"
+        android:showAsAction="never"
+        />
+</menu>
