@@ -30,7 +30,7 @@ import java.net.URL;
 
 import android.provider.Settings.Secure;
 
- // -- test by parash---
+ // -- test by parash-----**
 public class httpMethodsActivity extends AppCompatActivity {
 
     static final String ACTION_SCAN = "com.google.zxing.client.android.SCAN";
